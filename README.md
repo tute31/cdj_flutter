@@ -1,5 +1,3 @@
-# com.supervielle.superviellecheques
-
 A new Flutter project.
 
 ## Getting Started
